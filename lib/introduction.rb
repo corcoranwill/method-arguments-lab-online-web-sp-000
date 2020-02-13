@@ -1,7 +1,7 @@
 def name_printer (name)
-  puts "Hello, my name is #{name}"
+  puts "Hi, my name is #{name}."
 end
 
-def name_date_printer (name, date)
-  puts "Hello, my name is #{name} and the date is #{date}"
+def name_language_printer (name, language)
+  puts "Hi, my name is #{name} and I am learning to program in #{language}."
 end
